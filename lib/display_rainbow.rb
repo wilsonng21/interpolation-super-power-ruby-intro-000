@@ -6,7 +6,7 @@ def display_rainbow(color_array)
   G: #{color_array[3]}
   B: #{color_array[4]}
   I: #{color_array[5]}
-  R: #{color_array[6]}
+  V: #{color_array[6]}
   "
 
 end
